@@ -1,79 +1,62 @@
-# 👋 Hi there, I'm Reece Niemuth!
+# 🛡️ Cyber Engineering Portfolio
 
-Cybersecurity Engineer | ISSO @ Lockheed Martin | USMC Veteran | Obsessed with automation, compliance, and building secure systems.
+Welcome to my **Cyber-Engineering-Portfolio** — a curated collection of my **home lab builds, DoD-aligned documentation, and engineering experiments**.  
 
-> ![Profile Views](https://komarev.com/ghpvc/?username=ReeceNiemuth&color=green&style=flat-square)
-
-### 📌 Featured Projects
-
-- [**reeceniemuth.com**](https://reeceniemuth.com)  
-  *My Blog, Home Lab Documentation Hub, and Professional Home Page.*
-
-- [**TCU SWE Undergraduate Projects**](https://github.com/ReeceNiemuth/TCU-SWE-Undergrad-Projects)  
-  *Software Engineering coursework and projects from my undergraduate studies at TCU.*
-
-- [**Home Lab ISSE Collection**](https://github.com/ReeceNiemuth/HomeLab-ISSE-Collection)  
-  *Codebase, configurations, and security documentation from my personal DoD-aligned Home Lab.*
-
-- [**Alternate Codebase (GitLab)**](https://gitlab.com/ReeceNiemuth)  
-  *Supplementary projects and code hosted on GitLab.*
+This repository demonstrates my work as an **ISSO/ISSE-in-training** by replicating the same standards, artifacts, and processes used in **Special Access Programs (SAP)** and **Mission Assurance environments**.
 
 ---
 
-#### Here's what I bring to the table...
+## 📂 What’s Inside
 
-##### 📜 Certifications  
-![ISC2 CISSP](https://img.shields.io/badge/CISSP-ISC2-green)
-![ISC2 CCSP](https://img.shields.io/badge/CCSP-ISC2-green)
-![CompTIA CASP+](https://img.shields.io/badge/CASP+-CompTIA-blue)
-![CompTIA PenTest+](https://img.shields.io/badge/PenTest+-CompTIA-blue)
-![CompTIA CySA+](https://img.shields.io/badge/CySA+-CompTIA-blue)
-![CompTIA Security+](https://img.shields.io/badge/Security+-CompTIA-red)
-![CompTIA Network+](https://img.shields.io/badge/Network+-CompTIA-red)
-![CompTIA A+](https://img.shields.io/badge/A+-CompTIA-red)
-![CompTIA Project+](https://img.shields.io/badge/Project+-CompTIA-orange)
-![LPI Linux Essentials](https://img.shields.io/badge/Linux%20Essentials-LPI-yellow)
-![Axelos ITILv4](https://img.shields.io/badge/ITILv4-Foundation-purple)
-![Genesys Cloud CX Professional](https://img.shields.io/badge/Genesys-Cloud%20CX%20Professional-lightgrey)
+### 🔹 Documentation & Artifacts
+- **System Security Plan (SSP)** — baseline architecture, system details, and control implementations  
+- **SCTM (Security Control Traceability Matrix)** — mapping controls to implementation & testing  
+- **Configuration Management Plan (CM Plan)** — tracking changes, baselines, and approval workflows  
+- **Incident Response Plan (IRP)** — playbooks for handling cyber incidents in lab environments  
+- **Continuity & Disaster Recovery Plans (CP/DRP)** — strategies for lab resilience and recovery  
+- **Risk / Trade Study Log** — decisions, alternatives, and engineering trade-offs  
+- **Control Validation / Test Plan** — testing methodology for security controls  
+- **Baselines** — hardware and software inventories maintained like a real SAP system  
+- **Diagrams** — Security Architecture, Network/Data Flow, and Visual Concept Diagrams  
 
-##### 👨‍💻 Programming & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+### 🔹 Codebase & Automation
+- 🐍 **Python scripts** for log parsing, automation, and STIG/SCAP processing  
+- ⚙️ **Ansible playbooks** for patching and configuration automation  
+- 📊 **Splunk dashboards** for STIG validation, ISSO evidence collection, and compliance views  
+- 🛠️ **Custom TAs & configs** (Qmulos, Splunk, Windows/Linux log sources)  
 
-##### 💻 Operating Systems & Virtualization
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=white)
-![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D7?logo=microsoft&logoColor=white)
+### 🔹 Engineering Focus
+- **STIG & SCAP Enforcement** — hands-on hardening and compliance testing  
+- **Splunk + Qmulos Integration** — building compliance dashboards for RMF/JSIG evidence  
+- **Continuous Monitoring (ConMon)** — dashboards, alerts, and automated evidence generation  
+- **Home Lab Experiments** — mini-rack builds, virtualization, and cyber engineering practice  
 
-##### 🛡️ Security Tools & Frameworks
-![Splunk](https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-1A73E8?logo=tenable&logoColor=white)
-![Qmulos](https://img.shields.io/badge/Qmulos-FF6F00?logo=shield&logoColor=white)
-![STIG](https://img.shields.io/badge/DISA-STIG-blue)
-![NIST RMF](https://img.shields.io/badge/NIST-RMF-orange)
-![JSIG](https://img.shields.io/badge/JSIG-DoD-red)
+---
 
-##### ☁️ Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white)
+## 🚀 Goals of This Portfolio
+- 📜 Demonstrate **DoD-compliant engineering practices** in a home lab  
+- 🔧 Showcase **hands-on automation skills** in security engineering  
+- 🛡️ Build and maintain **evidence-driven compliance artifacts** like an ISSO/ISSE would  
+- 🧭 Serve as a **training ground** for ISSO → ISSE career progression  
 
-##### ⚙️ DevOps & Other Tools
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
+---
 
+## 📌 Related Repositories
+- 🌐 [**reeceniemuth.com**](https://reeceniemuth.com) — Blog, Home Lab Documentation Hub, Professional Page  
+- 🛡️ [**Home Lab ISSE Collection**](https://github.com/ReeceNiemuth/HomeLab-ISSE-Collection) — Scripts & configs powering this portfolio  
+- 📂 [**GitLab Alternate Codebase**](https://gitlab.com/ReeceNiemuth) — Supplementary projects  
 
-## 🔗 Connections
-- [**My Personal Website**](https://reeceniemuth.com) 
-- [My LinkedIn Profile](https://www.linkedin.com/in/reece-niemuth-mba-cissp-ccsp-54a87419a/)
-- [My Gitlab Profile - Alternate Coding Repo](https://gitlab.com/ReeceNiemuth)
-- [My Home Lab Repo](https://github.com/ReeceNiemuth/HomeLab-ISSE-Collection)
-- [My SWE-Related Undergraduate Java Projects](https://github.com/ReeceNiemuth/TCU-SWE-Undergrad-Projects)
+---
+
+## 📊 Snapshot
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReeceNiemuth&layout=compact&theme=dark" height="160"/>
+</p>
+
+---
+
+## 🧾 Notes
+This portfolio is **for demonstration and learning purposes only**.  
+It mirrors **federal and DoD-aligned processes**, but contains no real-world classified data.  
+
+---
