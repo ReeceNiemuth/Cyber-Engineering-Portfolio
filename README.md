@@ -1,6 +1,6 @@
 # 🛡️ Cyber Engineering Portfolio
 
-Welcome to my **Cyber-Engineering-Portfolio** — a curated collection of my **home lab builds, DoD-aligned documentation, and engineering experiments**.  
+Welcome to my **Cyber-Engineering-Portfolio**, a curated collection of my **home lab builds, DoD-aligned documentation, and engineering experiments**.  
 
 This repository demonstrates my work as an DoD sector cybersecurity professional by replicating the same standards, artifacts, and processes.
 ---
