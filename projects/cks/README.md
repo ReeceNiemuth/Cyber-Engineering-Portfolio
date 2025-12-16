@@ -8,24 +8,11 @@ CKS serves as a centralized reference platform for cybersecurity practitioners, 
 
 ## Repository Structure
 
-This repository contains representative, sanitized artifacts demonstrating the architecture, governance, and operational intent of the Cyber Knowledge Share (CKS).
+This repository contains a small, sanitized set of representative artifacts:
 
-cks/
-├── README.md
-│
-├── screenshots/
-│   ├── navigation_tiles.png
-│   └── example_domain_pages.png
-│
-├── architecture/
-│   ├── cks_overview_diagram.png
-│   └── ai_rag_high_level_flow.png
-│
-├── templates/
-│   ├── domain_page_template.md
-│   └── inspection_preparation_template.md
-│
-└── scope_notice.md
+- `screenshots/` — Visuals of knowledgebase content, navigation, and capability (redacted)
+- `architecture/` — High-level CKS and AI/RAG flow diagrams (Knowledgebase & ISSO-Assistant Logic)
+- `scope_notice.md` — Public scope and sanitization notice
 
 ---
 
