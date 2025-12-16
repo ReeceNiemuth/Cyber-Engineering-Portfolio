@@ -6,6 +6,29 @@ CKS serves as a centralized reference platform for cybersecurity practitioners, 
 
 ---
 
+## Repository Structure
+
+This repository contains representative, sanitized artifacts demonstrating the architecture, governance, and operational intent of the Cyber Knowledge Share (CKS).
+
+cks/
+├── README.md
+│
+├── screenshots/
+│   ├── navigation_tiles.png
+│   └── example_domain_pages.png
+│
+├── architecture/
+│   ├── cks_overview_diagram.png
+│   └── ai_rag_high_level_flow.png
+│
+├── templates/
+│   ├── domain_page_template.md
+│   └── inspection_preparation_template.md
+│
+└── scope_notice.md
+
+---
+
 ## Purpose
 
 The primary objective of CKS is to reduce knowledge fragmentation and improve execution quality across cybersecurity functions by:
@@ -56,16 +79,11 @@ Where applicable, control references are embedded contextually alongside procedu
 
 ## AI-Assisted Knowledge Access (RAG-LM)
 
-CKS is augmented by a dedicated Retrieval-Augmented Generation Language Model (RAG-LM) designed to assist users in navigating complex cybersecurity topics and filling knowledge gaps.
+CKS is augmented by a dedicated Retrieval-Augmented Generation Language Model (RAG-LM) built on the **LLaMA-3.3-70B-Instruct** model, selected for its strong instruction-following capability, reasoning consistency, and operational efficiency for governance-focused use cases.
 
-Key characteristics of the model include:
+The model is integrated with a curated knowledge corpus consisting of authoritative NIST publications, DoD guidance, and enterprise policy. Intentional knowledge guardrails (“AI-Barrier”) are implemented to constrain responses to validated sources and approved context, reducing the risk of speculation, hallucination, or policy misalignment.
 
-- A curated knowledge corpus sourced from authoritative standards, regulations, and enterprise policy
-- Intentional knowledge guardrails (“AI-Barrier”) to prevent speculation, hallucination, or policy-misaligned output
-- Responses constrained to applicable standards, requirements, and organizational context
-- Emphasis on accuracy, applicability, and audit-defensible guidance rather than generalized advice
-
-The AI capability is intended to complement, and not replace authoritative documentation and human decision-making.
+The AI capability is designed to provide accurate, standards-aligned guidance and assist users in navigating complex regulatory and procedural topics, while explicitly complementing, and not replacing the authoritative documentation and human judgment.
 
 ---
 
