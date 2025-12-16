@@ -20,10 +20,7 @@ This repository demonstrates my work as an DoD sector cybersecurity professional
 - **Security Automation & Tooling**  
   Scripts and proof-of-concept tooling for audit support, data normalization, and security workflow automation.  
   _Python • PowerShell • Bash_
-
-- **Assessment & Compliance Artifacts**  
-  Sample SSP, POA&M, SAR, RAR, and inspection preparation materials (sanitized).  
-  _NIST SP 800-53 • RMF_
+  → `/projects/tooling`
 
 ---
 
