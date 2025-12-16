@@ -9,8 +9,7 @@ This repository demonstrates my work as an DoD sector cybersecurity professional
 
 - **Cyber Knowledge Share (CKS)**  
   Internal-style cybersecurity knowledge base focused on inspection readiness, control traceability, and standardized ISSO/ISSE workflows.  
-  _Governance • RMF • Documentation Engineering_  
-  → `/projects/cks`
+  _Governance • RMF • Documentation Engineering_   → `/projects/cks`
 
 - **PCOS Home Lab (DoD-Style Secure Enclave)**
   [**Click here to review the PCOS**](https://github.com/ReeceNiemuth/HomeLab-ISSE-Collection)   
@@ -19,8 +18,7 @@ This repository demonstrates my work as an DoD sector cybersecurity professional
 
 - **Security Automation & Tooling**  
   Scripts and proof-of-concept tooling for audit support, data normalization, and security workflow automation.  
-  _Python • PowerShell • Bash_
-  → `/projects/tooling`
+  _Python • PowerShell • Bash_   → `/projects/tooling`
 
 ---
 
