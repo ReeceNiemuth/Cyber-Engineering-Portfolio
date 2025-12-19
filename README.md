@@ -25,7 +25,7 @@ This repository showcases my work and capabilities in systems security engineeri
 --- 
 
 ## Cyber Documentation & Research
-`/documentaiton/*`
+`/documentation/*`
 
 - **Technical Reports & Research Papers**  
   Security engineering analyses, framework comparisons, and applied cybersecurity research.
