@@ -1,12 +1,13 @@
-# 🛡️ Cyber Engineering Portfolio
+# Cyber Engineering Portfolio - Reece Niemuth
 
 Welcome to my **Cyber-Engineering-Portfolio**, a curated collection of my **home lab builds, DoD-aligned documentation, and engineering experiments**.  
 
-This repository demonstrates my work as an DoD sector cybersecurity professional by replicating the same standards, artifacts, and processes.
+This repository showcases my work and capabilities in systems security engineering and cybersecurity.
 
 ---
 
 ## Selected Projects
+`/projects/*`
 
 - **Cyber Knowledge Share (CKS)**  
   Internal-style cybersecurity knowledge base focused on inspection readiness, control traceability, and standardized ISSO/ISSE workflows.  
@@ -21,17 +22,23 @@ This repository demonstrates my work as an DoD sector cybersecurity professional
   Scripts and proof-of-concept tooling for audit support, data normalization, and security workflow automation.  
   _Python • PowerShell • Bash_   → `/projects/tooling`
 
+--- 
+
+## Cyber Documentation & Research
+`/documentaiton/*`
+
+- **Technical Reports & Research Papers**  
+  Security engineering analyses, framework comparisons, and applied cybersecurity research.
+
+- **Cheat Sheets & Reference Guides**  
+  Condensed, high-signal references for Concepts, frameworks, controls, processes, and tooling.
+
+- **Pamphlets & Knowledge Handouts**  
+  Clear, digestible guidance intended for proper operation of tooling or capabiltiies I have created.
+
 ---
 
 ## 📊 Snapshot
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReeceNiemuth&layout=compact&theme=dark" height="160"/>
 </p>
-
----
-
-## 🧾 Notes
-This portfolio is **for demonstration and learning purposes only**.  
-It mirrors **federal and DoD-aligned processes**, but contains no real-world classified data.  
-
----
