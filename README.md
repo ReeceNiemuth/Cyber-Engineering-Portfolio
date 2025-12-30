@@ -40,5 +40,5 @@ This repository showcases my work and capabilities in systems security engineeri
 
 ## 📊 Snapshot
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReeceNiemuth&layout=compact&theme=dark" height="160"/>
+  <img alt="Top languages on GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReeceNiemuth&layout=compact&theme=dark&cache_seconds=21600&v=1" height="160" />
 </p>
