@@ -13,7 +13,7 @@ This repository showcases my work and capabilities in systems security engineeri
   Internal-style cybersecurity knowledge base focused on inspection readiness, control traceability, and standardized ISSO/ISSE workflows.  
   _Governance • RMF • Documentation Engineering_   → `/projects/cks`
 
-- **PCOS Home Lab (DoD-Style Secure Enclave)**
+- **PCOS / Home Lab (DoD-Style Secure Enclave)**
   [**Click here to review the PCOS**](https://github.com/ReeceNiemuth/HomeLab-ISSE-Collection-PUBLIC)   
   Segmented lab environment simulating RMF-aligned system authorization, continuous monitoring, and vulnerability management.  
   _AD • Splunk • Nessus • STIGs_
