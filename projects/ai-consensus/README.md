@@ -9,6 +9,7 @@ _AI Consensus is a multi-model artificial intelligence interface that enables si
                     ├── public/                 # Static assets and HTML template
                     ├── screenshots/            # Application interface captures
                     ├── architecture/           # System architecture and API flow diagrams
+                    ├── LICENSE
                     ├── README.md
                     └── deployment_guide.md     # Deployment and configuration instructions
 
