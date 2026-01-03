@@ -13,7 +13,7 @@ In this repository, I maintain a "highlight" collection of my **builds, developm
   ![Atlassian](https://img.shields.io/badge/Atlassian-0052CC?logo=atlassian&logoColor=white)
   ![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white)
 
-- [**PCOS / Home Lab (DoD-Style Secure Enclave)**](https://github.com/ReeceNiemuth/HomeLab-ISSE-Collection-PUBLIC) → **HomeLab-ISSE-Collection-PUBLIC** `/tree/main/showcase/pcos-project`  
+- [**PCOS / Home Lab (DoD-Style Secure Enclave)**](https://github.com/ReeceNiemuth/HomeLab-ISSE-Collection-PUBLIC/tree/main/showcase/pcos-project) → **HomeLab-ISSE-Collection-PUBLIC** `/tree/main/showcase/pcos-project`  
   Homelab environment simulating RMF-aligned system authorization, continuous monitoring, vulnerability management, and secure system life cycle management all in the pursuit of practicing and mastering my career-relevant skills.  
   ![RMF](https://img.shields.io/badge/NIST-RMF-orange)
   ![STIG](https://img.shields.io/badge/DISA-STIG-blue)
