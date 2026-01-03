@@ -28,10 +28,6 @@ _AI Consensus aims to integrate multiple popular AI models into a single query i
 - **Terminal-Inspired UI/UX** – Cool "Cyberpunk" aesthetic with terminal-style interface, smooth animations, real-time status indicators, and a simple execution keyboard shortcut (Ctrl+Enter).
 - **Secure API Management** – Client-side API key handling with browser session storage (no server-side persistence), model selection / omission freedom, and graceful error handling with clear validation feedback.
 
-<p align="center">
-  <img src="./screenshots/ai_consensus_diagram.png" alt="Query Execution Visualization" style="max-width: 100%;">
-</p>
-
 ## 🏗️ Technical Architecture
 
 ### Frontend Stack
