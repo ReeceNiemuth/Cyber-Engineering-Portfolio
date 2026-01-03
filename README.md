@@ -29,9 +29,8 @@ In this repository, I maintain a "highlight" collection of my **builds, developm
   ![Application Development](https://img.shields.io/badge/Application-Development-4B5563)
   ![API](https://img.shields.io/badge/API-Orchestration-4B0082)
   ![AI](https://img.shields.io/badge/AI-Multi--Model-8A2BE2)
-  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-  ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
-  ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+  ![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933?logo=node.js&logoColor=white)
 
 - [**Bastion Insight Engine (BIE)**](https://github.com/ReeceNiemuth/Cyber-Engineering-Portfolio/tree/main/projects/bie) → `bie/` _(In Progress)_  
   Scripts and proof-of-concept tooling for audit support, data normalization, and _federal sector_ security workflow automation.  
