@@ -3,12 +3,12 @@
 _The Cyber Knowledge Share (CKS) is an enterprise-wide cybersecurity knowledge base a dedicated RAG AI Model that enables consistent, policy-aligned execution of cybersecurity governance and operations by centralizing authoritative guidance, enterprise policy, tooling references, and standardized workflows into a single, structured system for practitioners, auditors, and engineering staff._
 
     Cyber-Engineering-Portfolio/
-    └── projects/
-        cks/
-        ├── architecture/      #High-level CKS architecture and AI/RAG flow diagrams
-        ├── screenshots/       #Sanitized visuals of CKS pages, navigation, and capabilities
-        ├── README.md
-        └── scope_notice.md    #Public scope definition and sanitization notice
+        └── projects/
+                └──cks/
+                    ├── architecture/      #High-level CKS architecture and AI/RAG flow diagrams
+                    ├── screenshots/       #Sanitized visuals of CKS pages, navigation, and capabilities
+                    ├── README.md
+                    └── scope_notice.md    #Public scope definition and sanitization notice
 
 <p align="center">
   <img src="./screenshots/CKS_Homepage/CKS_Homepage_1.jpg" alt="CKS Homepage Main README Showcase 1" style="max-width: 100%;">
