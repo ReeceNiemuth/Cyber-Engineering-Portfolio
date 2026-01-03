@@ -24,7 +24,7 @@ In this repository, I maintain a "highlight" collection of my **builds, developm
   ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 
-- [**AI Consensus (Response Optimization)**](https://github.com/ReeceNiemuth/Cyber-Engineering-Portfolio/tree/main/projects/ai-consensus) → `tooling/` _(In Progress)_  
+- [**AI Consensus (Response Optimization)**](https://github.com/ReeceNiemuth/Cyber-Engineering-Portfolio/tree/main/projects/ai-consensus) → `ai-consensus/` _(In Progress)_  
   Multi-model AI interface that queries multiple LLMs in parallel and synthesizes consensus answers through comparison and voting.  
   ![Application Development](https://img.shields.io/badge/Application-Development-4B5563)
   ![API](https://img.shields.io/badge/API-Orchestration-4B0082)
