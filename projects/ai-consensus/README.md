@@ -98,14 +98,8 @@ The application features a distinctive cyberpunk terminal aesthetic with:
 - **Status feedback** – Real-time loading states and error messages
 - **Responsive layout** – Optimized grid system for multiple model responses
 
-## Query Functionality Input / Output Example
 
 ## 🧪 Featured Consensus Example
-
-**Why This Matters**
-This question intentionally invites multiple valid approaches. AI Consensus queries multiple frontier models in parallel, then synthesizes their responses to produce a balanced, actionable recommendation that reconciles competing priorities.
-
-
 **INPUT** `User Question`
 > What is the best way for an organization to deploy an internal AI assistant quickly while still minimizing long-term security, privacy, and operational risk?
 <p align="center">
