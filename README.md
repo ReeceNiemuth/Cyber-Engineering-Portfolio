@@ -50,7 +50,7 @@ In this repository, I maintain a "highlight" collection of my **builds, developm
   ![Claude](https://img.shields.io/badge/Anthropic-Claude%20AI-5A67D8)
 
 - [**Security Automation & Tooling**](https://github.com/ReeceNiemuth/Cyber-Engineering-Portfolio/tree/main/projects/tooling) → `tooling/`  
-  Scripts and proof-of-concept tooling for audit support, data normalization, and security workflow automation.  
+  Miscellaneous scripts and proof-of-concept tooling for process optimization, security workflow automation, etc.  
   ![Automation](https://img.shields.io/badge/Workflow-Automation-2F4F4F)
   ![Operations](https://img.shields.io/badge/Operations-Support-8B0000)
   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
