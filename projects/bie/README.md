@@ -24,4 +24,5 @@ BIE is envisioned as a **standalone executable application** that helps centrali
 - Optimized for reducing repetitive compliance effort  
 - Focused on audit defensibility and operational clarity
 
+‎ 
 😎 _Stay tuned for Updates!_
