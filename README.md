@@ -1,6 +1,22 @@
-# Welcome to my Cyber Engineering Portfolio!
+<p align="center">
+<h1>👋 Welcome to my Cyber Engineering Portfolio!</h1>
+</p>
 
-In this repository, I maintain a "highlight" collection of my **builds, developments, and various authored documents**.  
+<p>
+<img
+align="right"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReeceNiemuth&layout=compact&theme=github_dark&hide_title=true&langs_count=6"
+alt="Top Languages"
+/>
+<p style="margin: 0;">
+In this repository, I maintain a <strong>highlight collection</strong> of my
+<strong>builds, developments, security tooling, automation, and authored documents</strong>,
+with emphasis on data manipulation, systems security engineering, and technical
+work aligned to ISSE responsibilities within DoD environments and mission-critical programs.
+Feel free to visit <a href="https://reeceniemuth.com" target="_blank">reeceniemuth.com</a> for my contact information!
+</p>
+
+---
 
 `/projects/*`
 
@@ -24,7 +40,7 @@ In this repository, I maintain a "highlight" collection of my **builds, developm
   ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 
-- [**AI Consensus (Response Optimization)**](https://github.com/ReeceNiemuth/Cyber-Engineering-Portfolio/tree/main/projects/ai-consensus) → `ai-consensus/` _(In Progress)_  
+- [**AI Consensus (Response Optimization)**](https://github.com/ReeceNiemuth/ai-consensus-app) → `ai-consensus-app/`   
   Multi-model AI interface that queries multiple LLMs in parallel and synthesizes consensus answers through comparison and voting.  
   ![Application Development](https://img.shields.io/badge/Application-Development-4B5563)
   ![API](https://img.shields.io/badge/API-Orchestration-4B0082)
