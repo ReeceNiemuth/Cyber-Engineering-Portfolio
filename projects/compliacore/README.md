@@ -29,7 +29,7 @@ CompliaCore aims to provide:
 
 ## Homepage: System Posture
 
-**Unified view of system security and compliance KPIs in alignment to user-defined or provided framework parameters**
+**Unified view of system security and compliance KRIs in alignment to user-defined or provided framework parameters**
 
 ![Dashboard](assets/compliacorev1_screenshot1.png)
 
