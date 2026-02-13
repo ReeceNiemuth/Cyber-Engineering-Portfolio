@@ -54,7 +54,18 @@ Feel free to visit <a href="https://reeceniemuth.com" target="_blank">reeceniemu
   ![RMF](https://img.shields.io/badge/NIST-RMF-orange)
   ![STIG](https://img.shields.io/badge/DISA-STIG-blue)
   ![Compliance](https://img.shields.io/badge/Compliance-Engineering-4682B4)
-  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-Python-3776AB?logo=python&logoColor=white)
+
+- [**CompliaCore**](https://github.com/ReeceNiemuth/Cyber-Engineering-Portfolio/tree/main/projects/compliacore) → `compliacore/` _(In Progress)_  
+  Desktop compliance platform for _DoD/SAP environments_ that aggregates evidence (Nessus, SCAP/STIG, Splunk), applies explainable risk scoring, supports AI-assisted tailoring and RAG SME guidance, and enables agent-based audit assurance and remediation.  
+  ![Compliance](https://img.shields.io/badge/Compliance-Automation-4682B4)
+  ![RMF](https://img.shields.io/badge/NIST-RMF-orange)
+  ![STIG](https://img.shields.io/badge/DISA-STIG-blue)
+  ![AI](https://img.shields.io/badge/AI-RAG%20Enabled-8A2BE2)
+  ![Go](https://img.shields.io/badge/Go-1.23-00ADD8?logo=go&logoColor=white)
+  ![Wails](https://img.shields.io/badge/Wails-v2-1E90FF)
+  ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
 
 - [**My Personal Website (reeceniemuth.com)**](https://reeceniemuth.com) → `my-website/`  
   Personal security engineering website serving as a curated portfolio and narrative layer, while also acting as a sandbox for web development experimentation and responsible use of AI-assisted tooling to accelerate layout, content, and UI iteration.  
