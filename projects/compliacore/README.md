@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Project%20Status-%20Early%20Development-blue"/>
   <img src="https://img.shields.io/badge/Environment-Offline%20Capable-darkgreen"/>
-  <img src="https://img.shields.io/badge/Designed%20for-DoD%20%2F%20SAP-darkred"/>
+  <img src="https://img.shields.io/badge/Designed%20for-DoD%20%2F%20Contractors-darkred"/>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@ CompliaCore aims to provide:
 - Offline AI "Subject Matter Expert" (RAG) for compliance guidance in sensitive air-gapped networks.
 - Evidence-aware decision support for security professional workflows  
 
-> **Quick Note:** Dashboard metrics shown in below screenshots utilize **sample data** and are for visual demonstration only at this time.
+> **Quick Note:** **Home Dashboard** and **Findings Interface** utilize **sample data** and are for visual demonstration only at this time.
 
 <br>
 
@@ -54,6 +54,31 @@ Combines the following:
 Produces a _holistic risk perspective_ across the environment.
 
 ![Findings](assets/compliacorev1_screenshot3.png)
+
+<br>
+
+## Evidence Management
+
+**Central repository serving as a reference interface and file management system for system security assessment artifacts and evidence**
+
+Stores the following:
+- Nessus / OpenVAS reports in HTML format
+- SCAP / SCC STIG results (CAT I / II / III) in HTML format
+
+Produces a simplified and centralized means of analyzing STIG and Nessus results across the entire environment.
+
+#### Nessus Report Management / Reference Example
+
+![Findings](assets/compliacorev1_screenshot8.png)
+
+#### OpenSCAP Report Management / Reference Example (Linux-Based)
+
+![Findings](assets/compliacorev1_screenshot9.png)
+![Findings](assets/compliacorev1_screenshot10.png)
+
+#### SCAP Compliance Checker (SCC) Report Management / Reference Example (Windows-Based)
+
+![Findings](assets/compliacorev1_screenshot11.png)
 
 <br>
 
