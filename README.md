@@ -80,7 +80,7 @@ Feel free to visit <a href="https://reeceniemuth.com" target="_blank">reeceniemu
   Miscellaneous scripts and proof-of-concept tooling for process optimization, security workflow automation, etc.  
   ![Automation](https://img.shields.io/badge/Workflow-Automation-2F4F4F)
   ![Operations](https://img.shields.io/badge/Operations-Support-8B0000)
-  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-Python-3776AB?logo=python&logoColor=white)
   ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
   ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
   ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
