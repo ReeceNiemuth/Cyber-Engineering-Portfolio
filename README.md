@@ -1,22 +1,18 @@
+<!-- Cyber Portfolio Banner -->
 <p align="center">
-<h1>👋 Welcome to my Cyber Engineering Portfolio!</h1>
+  <img 
+    src="https://raw.githubusercontent.com/ReeceNiemuth/Cyber-Engineering-Portfolio/main/documentation/assets/cyberrepo.png"
+    alt="Cyber Portfolio Banner"
+    width="100%"
+  />
 </p>
 
-<p>
-<img
-align="right"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReeceNiemuth&layout=compact&theme=github_dark&hide_title=true&langs_count=6&cache_seconds=86400"
-alt="Top Languages"
-/>
-<p style="margin: 0;">
-In this repository, I maintain a <strong>highlight collection</strong> of my
-<strong>builds, developments, security tooling, automation, and authored documents</strong>,
-with emphasis on data manipulation, systems security engineering, and technical
-work aligned to ISSE responsibilities within DoD environments and mission-critical programs.
-Feel free to visit <a href="https://reeceniemuth.com" target="_blank">reeceniemuth.com</a> for my contact information!
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ReeceNiemuth&theme=react-dark&hide_border=true&area=true"
+    alt="Contribution Graph"
+  />
 </p>
-
----
 
 `/projects/*`
 
