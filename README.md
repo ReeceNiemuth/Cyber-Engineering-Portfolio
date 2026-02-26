@@ -54,7 +54,7 @@
   ![Python](https://img.shields.io/badge/Python-Python-3776AB?logo=python&logoColor=white)
 
 - [**CompliaCore**](https://github.com/ReeceNiemuth/Cyber-Engineering-Portfolio/tree/main/projects/compliacore) → `compliacore/` _(In Progress)_  
-  Desktop compliance platform for _DoD/SAP environments_ that aggregates evidence (Nessus, SCAP/STIG, Splunk), applies explainable risk scoring, supports AI-assisted tailoring and RAG SME guidance, and enables agent-based audit assurance and remediation.  
+  Desktop compliance platform for _DoD environments_ that aggregates evidence (Nessus, SCAP/STIG, Splunk), applies explainable risk scoring, supports AI-assisted tailoring and RAG SME guidance, and enables agent-based audit assurance and remediation.  
   ![Compliance](https://img.shields.io/badge/Compliance-Automation-4682B4)
   ![RMF](https://img.shields.io/badge/NIST-RMF-orange)
   ![STIG](https://img.shields.io/badge/DISA-STIG-blue)
