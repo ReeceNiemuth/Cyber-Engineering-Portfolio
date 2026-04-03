@@ -1,6 +1,11 @@
+<p align="center">
+  <img src="./assets/kb_banner_github.png" alt="Reece Niemuth Banner" />
+</p>
 
-
+<p align="center">
 _Feel free to browse this structured repository of personal notes and references I have built throughout the course of my career in cybersecurity._
+</p>
+
 <br>
 
 <details>
