@@ -1,6 +1,47 @@
 
 
 _Feel free to browse this structured repository of personal notes and references I have built throughout the course of my career in cybersecurity._
+<br>
+
+<details>
+<summary>📁 View Repository Structure</summary>
+
+```bash
+cheatsheets_&_reference_docs/
+│
+├── README.md
+│
+├── assets    # Used for static asset storage
+│
+├── Certifications/
+│   ├── ISC2/
+│   │   ├── SSCP/
+│   │   ├── CISSP/
+│   │   ├── CISSP-ISSEP/
+│   │   └── CCSP/
+│   ├── CompTIA/
+│   │   ├── A+/
+│   │   ├── Network+/
+│   │   ├── Security+/
+│   │   ├── CySA+/
+│   │   ├── PenTest+/
+│   │   └── CASP+/
+│   ├── Splunk/
+│   │   ├── Core-Power-User/
+│   │   ├── Enterprise-Admin/
+│   │   └── Advanced-Power-User/
+│   ├── Axelos/
+│   │   └── ITILv4-Foundations/
+│   └── Genesys/
+│       └── Cloud-Professional/
+│
+├── Tools/    # General notes and diagrams from documenting various tooling exposure
+└── Frameworks/    # General notes and consolidated takeaways from various frameworks and popular publications
+```
+
+</details>
+
+---
 
 ### 🥇 Certification Study Guides & Cheat Sheets
 _Click to access the resources associated with any of the following:_
