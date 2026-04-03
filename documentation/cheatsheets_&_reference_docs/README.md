@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-_Feel free to browse this structured repository of personal notes and references I have built throughout the course of my career in cybersecurity._
+Feel free to browse this structured repository of personal notes and references I have built throughout the course of my career!
 </p>
 
 <br>
