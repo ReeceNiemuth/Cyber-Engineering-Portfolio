@@ -7,13 +7,6 @@
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ReeceNiemuth&theme=react-dark&hide_border=true&area=true"
-    alt="Contribution Graph"
-  />
-</p>
-
 `/projects/*`
 
 - [**Cyber Knowledge Share (CKS)**](https://github.com/ReeceNiemuth/Cyber-Engineering-Portfolio/tree/main/projects/cks) → `cks/`  
@@ -36,33 +29,6 @@
   ![Nessus](https://img.shields.io/badge/Nessus-1A73E8?logo=tenable&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
-
-- [**AI Consensus (Response Optimization)**](https://github.com/ReeceNiemuth/ai-consensus-app) → `ai-consensus-app/`   
-  Multi-model AI interface that queries multiple LLMs in parallel and synthesizes consensus answers through comparison and voting.  
-  ![Application Development](https://img.shields.io/badge/Application-Development-4B5563)
-  ![API](https://img.shields.io/badge/API-Orchestration-4B0082)
-  ![AI](https://img.shields.io/badge/AI-Multi--Model-8A2BE2)
-  ![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=black)
-  ![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933?logo=node.js&logoColor=white)
-
-- [**Bastion Insight Engine (BIE)**](https://github.com/ReeceNiemuth/Cyber-Engineering-Portfolio/tree/main/projects/bie) → `bie/` _(In Progress)_  
-  Scripts and proof-of-concept tooling for audit support, data normalization, and _federal sector_ security workflow automation.  
-  ![Automation](https://img.shields.io/badge/Security-Automation-006400)
-  ![RMF](https://img.shields.io/badge/NIST-RMF-orange)
-  ![STIG](https://img.shields.io/badge/DISA-STIG-blue)
-  ![Compliance](https://img.shields.io/badge/Compliance-Engineering-4682B4)
-  ![Python](https://img.shields.io/badge/Python-Python-3776AB?logo=python&logoColor=white)
-
-- [**CompliaCore**](https://github.com/ReeceNiemuth/Cyber-Engineering-Portfolio/tree/main/projects/compliacore) → `compliacore/` _(In Progress)_  
-  Desktop compliance platform for _DoD environments_ that aggregates evidence (Nessus, SCAP/STIG, Splunk), applies explainable risk scoring, supports AI-assisted tailoring and RAG SME guidance, and enables agent-based audit assurance and remediation.  
-  ![Compliance](https://img.shields.io/badge/Compliance-Automation-4682B4)
-  ![RMF](https://img.shields.io/badge/NIST-RMF-orange)
-  ![STIG](https://img.shields.io/badge/DISA-STIG-blue)
-  ![AI](https://img.shields.io/badge/AI-RAG%20Enabled-8A2BE2)
-  ![Go](https://img.shields.io/badge/Go-1.23-00ADD8?logo=go&logoColor=white)
-  ![Wails](https://img.shields.io/badge/Wails-v2-1E90FF)
-  ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
 
 - [**My Personal Website (reeceniemuth.com)**](https://reeceniemuth.com) → `my-website/`  
   Personal security engineering website serving as a curated portfolio and narrative layer, while also acting as a sandbox for web development experimentation and responsible use of AI-assisted tooling to accelerate layout, content, and UI iteration.  
